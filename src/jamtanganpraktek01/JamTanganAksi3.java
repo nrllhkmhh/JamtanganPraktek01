@@ -18,5 +18,7 @@ public class JamTanganAksi3 {
         Dina.JenisJam="Jam Digital";
         Dina.JenisTaliJam="Stenlis steel";
         Dina.KekuatanJam="Tahan Air";
+                    
+        Dina.cetakInfo();
     }
 }
