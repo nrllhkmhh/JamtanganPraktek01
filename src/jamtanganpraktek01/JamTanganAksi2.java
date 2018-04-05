@@ -12,5 +12,11 @@ package jamtanganpraktek01;
 public class JamTanganAksi2 {
     public static void main(String[] args) {
         JamTangan Rina = new JamTangan();
+        
+        Rina.Warna="Silver";
+        Rina.Merk="Charles Delon";
+        Rina.JenisJam="Jam Digital";
+        Rina.JenisTaliJam="Besi";
+        Rina.KekuatanJam="Tidak Tahan Air";
     }
 }
