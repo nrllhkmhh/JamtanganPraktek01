@@ -18,5 +18,7 @@ public class JamTanganAksi2 {
         Rina.JenisJam="Jam Digital";
         Rina.JenisTaliJam="Besi";
         Rina.KekuatanJam="Tidak Tahan Air";
+            
+        Rina.cetakInfo();
     }
 }
