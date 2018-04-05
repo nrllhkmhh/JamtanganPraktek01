@@ -12,5 +12,11 @@ package jamtanganpraktek01;
 public class JamTanganAksi {
     public static void main(String[] args) {
         JamTangan Siska = new JamTangan();
+        
+        Siska.Warna="Pink";
+        Siska.Merk="DW";
+        Siska.JenisJam="Jam Analog";
+        Siska.JenisTaliJam="Karet";
+        Siska.KekuatanJam="Tahan Air";
     }
 }
