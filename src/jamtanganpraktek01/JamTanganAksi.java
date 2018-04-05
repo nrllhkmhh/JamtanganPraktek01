@@ -18,5 +18,7 @@ public class JamTanganAksi {
         Siska.JenisJam="Jam Analog";
         Siska.JenisTaliJam="Karet";
         Siska.KekuatanJam="Tahan Air";
+        
+        Siska.cetakInfo();
     }
 }
